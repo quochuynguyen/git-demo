@@ -8,6 +8,7 @@
 
 * Class members
 
-| No | Name     | Email            | Github Username |
-|----+----------+------------------+-----------------|
-|  1 | Tung Dao | tungd@fetch.tech | tungd           |
+| No | Name           | Email              | Github Username |
+|----+----------------+--------------------+-----------------|
+|  1 | Tung Dao       | tungd@fetch.tech   | tungd           |
+|  3 | Dam Quang Khoa | dqkhoa02@gmail.com | damquangkhoa    |
