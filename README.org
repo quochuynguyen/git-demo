@@ -1,0 +1,7 @@
+* Using Git
+
+** Create new git repository
+
+#+BEGIN_SRC sh
+  git init
+#+END_SRC
