@@ -5,3 +5,9 @@
 #+BEGIN_SRC sh
   git init
 #+END_SRC
+
+* Class members
+
+| No | Name     | Email            | Github Username |
+|----+----------+------------------+-----------------|
+|  1 | Tung Dao | tungd@fetch.tech | tungd           |
